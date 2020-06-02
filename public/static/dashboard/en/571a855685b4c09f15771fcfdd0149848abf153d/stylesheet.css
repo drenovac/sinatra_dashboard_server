@@ -1,0 +1,7 @@
+.scrollbars{overflow:auto;}.dashboard-table{display:table;width:100%;}.dashboard-header-group{display:table-header-group;background-color:white;font-weight:bold;}
+.dashboard-row{display:table-row;background-color:white;font-size:150%;}.green{background-color:green;}
+.white{background-color:white;}.red .idx{background-color:red;color:white;}.dashboard-cell{display:table-cell;padding-left:10px;padding-right:10px;border-bottom:1px solid black;}
+.borders{border:1px solid black;}#sources{margin:0;background-color:white;border-top:1px solid gray;border-left:1px solid gray;border-right:1px solid gray;}
+#sources>li{padding:10px;border-bottom:1px solid gray;}.source.sel{background-color:'blue';}
+#title{font-size:26px;font-weight:bold!important;line-height:26px!important;}#no-scroll,#no-scroll>div{overflow-x:hidden!important;overflow-y:hidden!important;}
+#weekly-shifts{font-size:22px;text-overflow:ellipsis;}#weekly-shifts .number{font-weight:bold;text-decoration:underline;}

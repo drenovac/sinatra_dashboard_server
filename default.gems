@@ -1,0 +1,15 @@
+# default.gems generated gem export file. Note that any env variable settings will be missing. Append these after using a ';' field separator
+activemodel -v3.0.5
+activerecord -v3.0.5
+activerecord-jdbc-adapter -v1.1.1
+activesupport -v3.0.5
+arel -v2.0.9
+builder -v2.1.2
+daemons -v1.1.0
+eventmachine -v0.12.10
+i18n -v0.5.0
+json -v1.5.1
+rack -v1.2.2
+sinatra -v1.2.1
+tilt -v1.2.2
+tzinfo -v0.3.25
