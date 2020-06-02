@@ -3,7 +3,7 @@ source :rubygems
 #ruby=jruby-1.6.8
 
 gem 'diff-lcs', '1.2.1'
-gem 'rake', '0.8.7'
+gem 'rake', '12.3.3'
 gem 'rspec-core', '2.13.1'
 
 gem 'activemodel', '3.0.5'
