@@ -16,8 +16,10 @@ GEM
     builder (2.1.2)
     daemons (1.1.0)
     diff-lcs (1.2.1)
+    eventmachine (0.12.10)
     eventmachine (0.12.10-java)
-    i18n (0.5.0)
+    i18n (0.8.0)
+    json (1.5.1)
     json (1.5.1-java)
     rack (1.2.2)
     rake (0.8.7)
@@ -25,12 +27,12 @@ GEM
     sinatra (1.2.1)
       rack (~> 1.1)
       tilt (>= 1.2.2, < 2.0)
-      tilt (>= 1.2.2, < 2.0)
     tilt (1.2.2)
     tzinfo (0.3.25)
 
 PLATFORMS
   java
+  ruby
 
 DEPENDENCIES
   activemodel (= 3.0.5)
@@ -42,7 +44,7 @@ DEPENDENCIES
   daemons (= 1.1.0)
   diff-lcs (= 1.2.1)
   eventmachine (= 0.12.10)
-  i18n (= 0.5.0)
+  i18n (= 0.8.0)
   json (= 1.5.1)
   rack (= 1.2.2)
   rake (= 0.8.7)
