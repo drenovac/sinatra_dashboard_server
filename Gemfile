@@ -7,7 +7,7 @@ gem 'rake', '0.8.7'
 gem 'rspec-core', '2.13.1'
 
 gem 'activemodel', '3.0.5'
-gem 'activerecord', '3.0.5'
+gem 'activerecord', '3.2.14'
 gem 'activerecord-jdbc-adapter', '1.1.1'
 gem 'activesupport', '3.0.5'
 gem 'arel', '2.0.9'
